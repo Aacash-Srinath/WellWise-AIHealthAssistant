@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390984196722",
+    "project_id": "healthai-1311",
+    "storage_bucket": "healthai-1311.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390984196722:android:6a6cdb381b48f67ea118eb",
+        "android_client_info": {
+          "package_name": "com.mycompany.healthai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkncTFJ-y9VkhY6zSmzyPZOhCa2E7EQ0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
